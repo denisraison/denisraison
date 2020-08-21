@@ -23,35 +23,39 @@ Love creating and assembling things together to solve real world problems.
 
 Over and out. 🖖
 
-## 💻 Programming Languages
+<details>
+  <summary><h2>Expand to see more!!</h2></summary>
 
-| Fluent   |      Intermediate      |  Interested In |
-|:----------:|:-------------:|:------:|
-| Python |  PHP | Go |
-| JavaScript |    Kotlin   |    |
-| Java | C# |     |
-| Whole web thing (HTML, CSS) | C / C++ |    |
-| SLQ | |     |
+  ## 💻 Programming Languages
 
-## 🧩 Frameworks / Platforms
-- Vue.js
-- NativeScript
-- Ionic
-- Webpack
-- Docker
-- MySQL / SQLServer / PostgreSQL
-- Google App Engine
-- Google App Script
-- Google Cloud Platform (GCP)
-- Firebase (Functions, RealtimeDB, Firestore, Analytics etc...)
+  | Fluent   |      Intermediate      |  Interested In |
+  |:----------:|:-------------:|:------:|
+  | Python |  PHP | Go |
+  | JavaScript |    Kotlin   |    |
+  | Java | C# |     |
+  | Whole web thing (HTML, CSS) | C / C++ |    |
+  | SLQ | |     |
 
-## 🌐 Languages
-- English
-- Portuguese
+  ## 🧩 Frameworks / Platforms
+  - Vue.js
+  - NativeScript
+  - Ionic
+  - Webpack
+  - Docker
+  - MySQL / SQLServer / PostgreSQL
+  - Google App Engine
+  - Google App Script
+  - Google Cloud Platform (GCP)
+  - Firebase (Functions, RealtimeDB, Firestore, Analytics etc...)
 
-## 🔎 Where to Find?
+  ## 🌐 Languages
+  - English
+  - Portuguese
 
-- 📬 [Email deeraison@gmail.com](mailto:deeraison@gmail.com)
-- 🐙 [GitHub denisraison](https://github.com/denisraison)
-- 🌐 [Website raison.dev](https://raison.dev) 🔁
-- 📜 [Resume Denis Raison](https://docs.google.com/document/d/1kD9a22VSWKjr1yYHF6xIh6LnSP7VqB4bsTHrHLXu8DA/edit?usp=sharing)
+  ## 🔎 Where to Find?
+
+  - 📬 [Email deeraison@gmail.com](mailto:deeraison@gmail.com)
+  - 🐙 [GitHub denisraison](https://github.com/denisraison)
+  - 🌐 [Website raison.dev](https://raison.dev) 🔁
+  - 📜 [Resume Denis Raison](https://docs.google.com/document/d/1kD9a22VSWKjr1yYHF6xIh6LnSP7VqB4bsTHrHLXu8DA/edit?usp=sharing)
+</details>

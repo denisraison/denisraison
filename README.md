@@ -25,21 +25,13 @@ Over and out. 🖖
 
 ## 💻 Programming Languages
 
-### Fluent
-- Python
-- JavaScript
-- Java
-- Whole web bundle (HTML, CSS)
-- SLQ
-
-### Intermediate
-- PHP
-- Kotlin
-- C#
-- C / C++
-
-### Interested in Learning/Working
-- Go
+| Fluent   |      Intermediate      |  Interested On |
+|:----------:|:-------------:|:------:|
+| Python |  PHP | Go |
+| JavaScript |    Kotlin   |    |
+| Java | C# |     |
+| Whole web thing (HTML, CSS) | C / C++ |    |
+| SLQ | |     |
 
 ## 🧩 Frameworks / Platforms
 - Vue.js

@@ -25,7 +25,7 @@ Over and out. 🖖
 
 ## 💻 Programming Languages
 
-| Fluent   |      Intermediate      |  Interested On |
+| Fluent   |      Intermediate      |  Interested In |
 |:----------:|:-------------:|:------:|
 | Python |  PHP | Go |
 | JavaScript |    Kotlin   |    |

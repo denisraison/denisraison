@@ -30,11 +30,11 @@ Over and out. 🖖
 
   | Fluent   |      Intermediate      |  Interested In |
   |:----------:|:-------------:|:------:|
-  | Golang | | |
-  | Python |  PHP | Gen AI |
-  | JavaScript/TypeScript |    Kotlin   |  MLOps  |
+  | Golang | PHP | Gen AI |
+  | Python |  Kotlin | MLOps |
+  | JavaScript/TypeScript | C / C++ |   |
   | Java | C# |     |
-  | Whole web thing (HTML, CSS) | C / C++ |    |
+  | Whole web thing (HTML, CSS) | |    |
   | SLQ | |     |
 
   ## 🧩 Frameworks / Platforms
@@ -57,6 +57,5 @@ Over and out. 🖖
 
   - 📬 [Email deeraison@gmail.com](mailto:deeraison@gmail.com)
   - 🐙 [GitHub denisraison](https://github.com/denisraison)
-  - 🌐 [Website raison.dev](https://raison.dev) 🔁
-  - 📜 [Resume Denis Raison](https://docs.google.com/document/d/1kD9a22VSWKjr1yYHF6xIh6LnSP7VqB4bsTHrHLXu8DA/edit?usp=sharing)
+  - 📜 [Resume Denis Raison](https://docs.google.com/document/d/15fGBqL1AMlRhbQZewkoRfnFWxFZ3435iO3WU7uO71Zg/edit?usp=sharing)
 </details>

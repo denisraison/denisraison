@@ -5,8 +5,9 @@
     ✨ Full Stack Developer and Cloud Expert ✨<br/>
     🐍 Python 🐍<br/> 
     👾 JavaScript 👾<br/>
+    🐹 Golang 🐹<br/>
     ☁ Cloud Computing ☁<br/>
-    🤯 Anything... 🤯
+    🤯 Anything Fun... 🤯
   </p>
 </div>
 
@@ -14,12 +15,11 @@
 
 ## 🙋‍♂️ Some stuff about me
 
-Working full-time **full stack engineer** currently working mainly with Python and JavaScript on web apps running on microservices on the cloud.
+I’m a full-time **Full Stack Engineer** specializing in Python and JavaScript. My current focus is on building web applications running on microservices in the cloud.
 
-Started scripting on lua for games when I was a kid without even know what that was.
-After that discovered that I like it very much and was good at it so did some courses and here I am 🤓.
+My journey into programming began with scripting in Lua for games as a kid. I quickly realized my passion and knack for coding, which led me to pursue courses and dive deeper into the field.
 
-Love creating and assembling things together to solve real world problems.
+I thrive on creating and assembling solutions to tackle real-world problems.
 
 Over and out. 🖖
 
@@ -30,8 +30,9 @@ Over and out. 🖖
 
   | Fluent   |      Intermediate      |  Interested In |
   |:----------:|:-------------:|:------:|
-  | Python |  PHP | Go |
-  | JavaScript |    Kotlin   |    |
+  | Golang | | |
+  | Python |  PHP | Gen AI |
+  | JavaScript/TypeScript |    Kotlin   |  MLOps  |
   | Java | C# |     |
   | Whole web thing (HTML, CSS) | C / C++ |    |
   | SLQ | |     |

@@ -1,13 +1,14 @@
 ### Denis
 
-Full-stack engineer in Brisbane. I build the whole thing: backend systems
-and the frontends people actually look at.
+Senior full-stack engineer in Brisbane, and a product engineer at heart. I
+build the whole thing, and I care that it ships and works for the person
+using it, not just that the code is correct.
 
-The backend side comes from years on real-time ad serving, decisioning at
-millions of requests a second with a sub-millisecond budget. The frontend
-side is custom sites and product UIs, designed and built to ship, not
-mocked up. Most of my work these days runs with AI agents in the loop,
-using tooling I built and a review bar I keep.
+The backend depth comes from years on real-time ad serving, decisioning at
+millions of requests a second with a sub-millisecond budget. On the product
+side I take things end to end: custom sites and product UIs, designed and
+built to ship, not mocked up. Most of my work these days runs with AI
+agents in the loop, using tooling I built and a review bar I keep.
 
 Some of it is live:
 

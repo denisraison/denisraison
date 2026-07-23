@@ -1,61 +1,22 @@
-<div class="info">
-  <p align="center" class="header-image"><img src="https://i.ibb.co/rFDwkzZ/Denis-found-U-1-1.png" width="200"></p>
-  <h1 class="name" align="center"><span>Denis Raison</span></h1>
-  <p class="meta-data" align="center">
-    ✨ Full Stack Developer and Cloud Expert ✨<br/>
-    🐍 Python 🐍<br/> 
-    👾 JavaScript 👾<br/>
-    🐹 Golang 🐹<br/>
-    ☁ Cloud Computing ☁<br/>
-    🤯 Anything Fun... 🤯
-  </p>
-</div>
+### Denis
 
----
+Senior full-stack engineer in Brisbane, Australia. Years on real-time bid
+decisioning and sub-millisecond ad serving at millions of requests a
+second, where boring and correct beats clever. These days I build backend
+systems, ship small products end to end, and run a development workflow
+that leans hard on AI agents, with my own tooling and my own review bar.
 
-## 🙋‍♂️ Some stuff about me
+**[dnix.io](https://dnix.io)** is me, if you read it fast. It's a working
+terminal, not a homepage: no framework, no build step, view source.
 
-I’m a full-time **Full Stack Engineer** specializing in Python and JavaScript. My current focus is on building web applications running on microservices in the cloud.
+Pinned below are the tools I built for my own work. The products I've
+shipped live at their own domains.
 
-My journey into programming began with scripting in Lua for games as a kid. I quickly realized my passion and knack for coding, which led me to pursue courses and dive deeper into the field.
+- **[gitknown](https://github.com/denisraison/gitknown)** — Go CLI, a
+  worktree dashboard for running coding agents at scale. Shows which trees
+  have uncommitted or unpushed work at a glance.
+- **[claude-plugins](https://github.com/denisraison/claude-plugins)** —
+  tooling for running AI coding agents in production workflows.
 
-I thrive on creating and assembling solutions to tackle real-world problems.
-
-Over and out. 🖖
-
-<details>
-  <summary><h2>Expand to see more!!</h2></summary>
-
-  ## 💻 Programming Languages
-
-  | Fluent   |      Intermediate      |  Interested In |
-  |:----------:|:-------------:|:------:|
-  | Golang | PHP | Gen AI |
-  | Python |  Kotlin | MLOps |
-  | JavaScript/TypeScript | C / C++ |   |
-  | Java | C# |     |
-  | Whole web thing (HTML, CSS) | |    |
-  | SLQ | |     |
-
-  ## 🧩 Frameworks / Platforms
-  - Vue.js
-  - NativeScript
-  - Ionic
-  - Webpack
-  - Docker
-  - MySQL / SQLServer / PostgreSQL
-  - Google App Engine
-  - Google App Script
-  - Google Cloud Platform (GCP)
-  - Firebase (Functions, RealtimeDB, Firestore, Analytics etc...)
-
-  ## 🌐 Languages
-  - English
-  - Portuguese
-
-  ## 🔎 Where to Find?
-
-  - 📬 [Email deeraison@gmail.com](mailto:deeraison@gmail.com)
-  - 🐙 [GitHub denisraison](https://github.com/denisraison)
-  - 📜 [Resume Denis Raison](https://docs.google.com/document/d/15fGBqL1AMlRhbQZewkoRfnFWxFZ3435iO3WU7uO71Zg/edit?usp=sharing)
-</details>
+Reach me at [denis@dnix.io](mailto:denis@dnix.io) or on
+[LinkedIn](https://www.linkedin.com/in/denisraison).

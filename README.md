@@ -1,22 +1,33 @@
 ### Denis
 
-Senior full-stack engineer in Brisbane, Australia. Years on real-time bid
-decisioning and sub-millisecond ad serving at millions of requests a
-second, where boring and correct beats clever. These days I build backend
-systems, ship small products end to end, and run a development workflow
-that leans hard on AI agents, with my own tooling and my own review bar.
+Full-stack engineer in Brisbane. I build the whole thing: backend systems
+and the frontends people actually look at.
 
-**[dnix.io](https://dnix.io)** is me, if you read it fast. It's a working
-terminal, not a homepage: no framework, no build step, view source.
+The backend side comes from years on real-time ad serving, decisioning at
+millions of requests a second with a sub-millisecond budget. The frontend
+side is custom sites and product UIs, designed and built to ship, not
+mocked up. Most of my work these days runs with AI agents in the loop,
+using tooling I built and a review bar I keep.
 
-Pinned below are the tools I built for my own work. The products I've
-shipped live at their own domains.
+Some of it is live:
 
-- **[gitknown](https://github.com/denisraison/gitknown)** — Go CLI, a
-  worktree dashboard for running coding agents at scale. Shows which trees
-  have uncommitted or unpushed work at a glance.
-- **[claude-plugins](https://github.com/denisraison/claude-plugins)** —
-  tooling for running AI coding agents in production workflows.
+- **[Guardians Gamers](https://guardiansgamers.com)** — a gaming platform
+  built around one verified account per person, to make bad behaviour
+  actually cost something. Passkeys, real-time lobbies, a Go service
+  tracking Dota 2 matches.
+- **[Precision Coat](https://precisioncoatpainting.com.au)** — custom site
+  for a trade business, built and shipped, bringing in real leads.
 
-Reach me at [denis@dnix.io](mailto:denis@dnix.io) or on
-[LinkedIn](https://www.linkedin.com/in/denisraison).
+The pinned repos are tools I built for my own work:
+
+- **[gitknown](https://github.com/denisraison/gitknown)** — a Go CLI for
+  running coding agents at scale. Tells me which git worktrees have work I
+  haven't committed or pushed.
+- **[claude-plugins](https://github.com/denisraison/claude-plugins)** — the
+  plugins and tooling I run my agents with.
+
+[dnix.io](https://dnix.io) is my site. It's a working terminal you can type
+into, no framework, no build step. Say it fast and it's just my name.
+
+Reach me: [denis@dnix.io](mailto:denis@dnix.io) ·
+[LinkedIn](https://www.linkedin.com/in/denisraison)
